@@ -1,0 +1,16 @@
+th {
+  border-bottom: none !important;
+}
+small {
+  font-size: 60%;
+}
+@media (max-width:34.38rem) {
+  .invisible-in-sm {
+    display: none;
+  }
+}
+.alert-primary {
+  border-left: .25rem solid #326891;  
+}
+
+
